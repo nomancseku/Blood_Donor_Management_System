@@ -1,0 +1,17 @@
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\bin\Debug\Badhon Member Management KU Unit.exe.config
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\bin\Debug\Badhon Member Management KU Unit.exe
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\bin\Debug\Badhon Member Management KU Unit.pdb
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon Member Management KU Unit.csprojAssemblyReference.cache
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.Form1.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.Properties.Resources.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon Member Management KU Unit.csproj.GenerateResource.cache
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon Member Management KU Unit.csproj.CoreCompileInputs.cache
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon Member Management KU Unit.exe
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon Member Management KU Unit.pdb
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.Forms.Form_Dashboard.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.UserControls.UC_Home.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.UserControls.UC_Add.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.UserControls.UC_Search.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.UserControls.UC_Settings.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.Forms.Form2.resources
+D:\3-1 term\Database Systems project or framework\Project\Badhon Member Management KU Unit\Badhon Member Management KU Unit\obj\Debug\Badhon_Member_Management_KU_Unit.UserControls.UserControl1.resources
